@@ -2021,7 +2021,7 @@ __webpack_require__.r(__webpack_exports__);
       var _this = this;
 
       //load API
-      axios.get('https://melvbiddulph.art/api/artwork').then(function (response) {
+      axios.get('https://photos.jbiddulph.com/api/artwork').then(function (response) {
         _this.artworks = response.data;
       })["catch"](function (error) {
         console.log(console.log("Here is the error ZZ: ", error));
@@ -2064,7 +2064,7 @@ __webpack_require__.r(__webpack_exports__);
       var _this = this;
 
       //load API
-      axios.get('https://melvbiddulph.art/api/artwork').then(function (response) {
+      axios.get('https://photos.jbiddulph.com/api/artwork').then(function (response) {
         _this.artworks = response.data;
       })["catch"](function (error) {
         console.log(console.log("Here is the error ZZ: ", error));
@@ -2197,7 +2197,7 @@ __webpack_require__.r(__webpack_exports__);
       var _this = this;
 
       //load API
-      axios.get('https://melvbiddulph.art/api/artwork/' + this.$route.params.id);
+      axios.get('https://photos.jbiddulph.com/api/artwork/' + this.$route.params.id);
       console.log('the ID is: ', this.$route.params.id).then(function (response) {
         _this.artwork = response.data;
         console.log('here we go: ', _this.artwork);
@@ -37654,7 +37654,7 @@ var staticRenderFns = [
           [
             _c("img", {
               attrs: {
-                src: "https://melvbiddulph.art/images/mobile-app.jpg",
+                src: "https://photos.jbiddulph.com/images/mobile-app.jpg",
                 width: "100%",
                 alt: "Download on the app store"
               }
@@ -37663,7 +37663,7 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
-      _c("h2", [_vm._v("About Melvyn Biddulph")]),
+      _c("h2", [_vm._v("About John Biddulph")]),
       _vm._v(" "),
       _c("ul", [
         _c("li", [_vm._v("BORN IN ROCHDALE 1949")]),
@@ -37680,8 +37680,8 @@ var staticRenderFns = [
       _c("p", [
         _c("img", {
           attrs: {
-            src: "/images/melvyn.jpg",
-            alt: "Melvyn Biddulph - The Artist",
+            src: "/images/John.jpg",
+            alt: "John Biddulph - The Artist",
             width: "100%"
           }
         })
@@ -37747,7 +37747,7 @@ var staticRenderFns = [
           _vm._v("  "),
           _c(
             "a",
-            { attrs: { href: "https://www.facebook.com/melvyn.biddulph" } },
+            { attrs: { href: "https://www.facebook.com/John.biddulph" } },
             [_vm._v("Facebook Profile")]
           )
         ]),
@@ -37786,7 +37786,7 @@ var staticRenderFns = [
                       staticClass: "modal-title",
                       attrs: { id: "exampleModalLabel" }
                     },
-                    [_vm._v("More about Melvyn")]
+                    [_vm._v("More about John")]
                   ),
                   _vm._v(" "),
                   _c(
@@ -38043,7 +38043,7 @@ var staticRenderFns = [
           [
             _c("img", {
               attrs: {
-                src: "https://melvbiddulph.art/images/mobile-app.jpg",
+                src: "https://photos.jbiddulph.com/images/mobile-app.jpg",
                 width: "100%",
                 alt: "Download on the app store"
               }
@@ -38052,7 +38052,7 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
-      _c("h2", [_vm._v("About Melvyn Biddulph")]),
+      _c("h2", [_vm._v("About John Biddulph")]),
       _vm._v(" "),
       _c("ul", [
         _c("li", [_vm._v("BORN IN ROCHDALE 1949")]),
@@ -38069,8 +38069,8 @@ var staticRenderFns = [
       _c("p", [
         _c("img", {
           attrs: {
-            src: "/images/melvyn.jpg",
-            alt: "Melvyn Biddulph - The Artist",
+            src: "/images/John.jpg",
+            alt: "John Biddulph - The Artist",
             width: "100%"
           }
         })
@@ -38136,7 +38136,7 @@ var staticRenderFns = [
           _vm._v("  "),
           _c(
             "a",
-            { attrs: { href: "https://www.facebook.com/melvyn.biddulph" } },
+            { attrs: { href: "https://www.facebook.com/John.biddulph" } },
             [_vm._v("Facebook Profile")]
           )
         ]),
@@ -38175,7 +38175,7 @@ var staticRenderFns = [
                       staticClass: "modal-title",
                       attrs: { id: "exampleModalLabel" }
                     },
-                    [_vm._v("More about Melvyn")]
+                    [_vm._v("More about John")]
                   ),
                   _vm._v(" "),
                   _c(

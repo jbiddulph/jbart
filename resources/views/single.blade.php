@@ -25,14 +25,14 @@
             <div class="col-md-4 col-12 artistinfo">
                 <div style="margin-bottom: 20px;">
                     <a href="https://apps.apple.com/us/app/mbiddulph/id1627696444" target="_blank">
-                        <img src="https://melvbiddulph.art/images/mobile-app.jpg" width="100%" alt="Download on the app store" />
+                        <img src="https://photos.jbiddulph.com/images/mobile-app.jpg" width="100%" alt="Download on the app store" />
                     </a>
                 </div>
                 <h2>About John Biddulph</h2>
                 <ul>
                     <li>BORN IN ROCHDALE 1978</li>
                 </ul>
-                <p><img src="/images/melvyn.jpg" alt="Melvyn Biddulph - The Artist" width="100%"></p>
+                <p><img src="/images/melvyn.jpg" alt="John Biddulph - The Artist" width="100%"></p>
                 <p>I think I must have been about 12 when the new art teacher joined the school.</p>
                 <p>Miss Wiggins' hair was blonde, in a beehive style. She wore mini skirts, sometimes with tassels. She would arrive at the school on her cobalt blue Vespa in hairnet and rollers. I think she was the best thing to ever happen to me. She told me I could draw. Got me to go to Saturday morning classes and encouraged me to join the Rochdale College of Art when I left School just before my 15th birthday. She had then, apparently, saved me from a life working in some factory.</p>
                 <!-- Button trigger modal -->
@@ -45,7 +45,7 @@
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5ZwmCjyZVe0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe>
                 <ul class="contact">
                     <li><i class="fas fa-book"></i>&nbsp;&nbsp;<a href="https://blurb.co.uk/books/1830214-f-r-a-g-i-l-e">F-R-A-G-I-L-E Book</a></li>
-                    <li><i class="fab fa-facebook-square"></i>&nbsp;&nbsp;<a href="https://www.facebook.com/melvyn.biddulph">Facebook Profile</a></li>
+                    <li><i class="fab fa-facebook-square"></i>&nbsp;&nbsp;<a href="https://www.facebook.com/John.biddulph">Facebook Profile</a></li>
                     <li><i class="fas fa-phone-square-alt"></i>&nbsp;&nbsp;<a href="tel:07534226701">07534 226701</a></li>
                 </ul>
                 <!-- Modal -->
@@ -53,7 +53,7 @@
                     <div class="modal-dialog" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h5 class="modal-title" id="exampleModalLabel">More about Melvyn</h5>
+                                <h5 class="modal-title" id="exampleModalLabel">More about John</h5>
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                 </button>

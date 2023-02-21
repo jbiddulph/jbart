@@ -32,7 +32,7 @@
 <body>
 <!-- As a heading -->
 <nav class="navbar justify-content-between">
-    <span class="navbar-brand mb-0 h1"><img src="/images/signature.png" alt="Melvyn Biddulph" title="Melvyn Biddulph" width="60%"></span>
+    <span class="navbar-brand mb-0 h1"><img src="/images/signature.png" alt="John Biddulph" title="John Biddulph" width="60%"></span>
     <div class="app-store-download">
         <a href="https://apps.apple.com/us/app/mbiddulph/id1627696444" target="_blank">
             <img src="/images/download-appstore.png" width="200" alt="Download on the app store" />
@@ -48,7 +48,7 @@
 
         <div class="app-store-download">
             <a href="https://apps.apple.com/us/app/mbiddulph/id1627696444" target="_blank">
-                <img src="https://melvbiddulph.art/images/download-appstore.png" width="200" alt="Download on the app store" />
+                <img src="https://photos.jbiddulph.com/images/download-appstore.png" width="200" alt="Download on the app store" />
             </a>
         </div>
 {{--        <ul class="navbar-nav">--}}
@@ -72,7 +72,7 @@
     </div>
     <footer class="bg-dark">
         <div class="copyright">
-            &copy; copyright 2022 Melvyn Biddulph
+            &copy; copyright 2022 John Biddulph
         </div>
     </footer>
     <!-- Scripts -->

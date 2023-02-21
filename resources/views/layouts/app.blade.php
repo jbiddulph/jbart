@@ -22,7 +22,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <span class="navbar-brand mb-0 h1"><img src="/images/signature.png" alt="Melvyn Biddulph" title="Melvyn Biddulph" width="60%"></span>
+                    <span class="navbar-brand mb-0 h1"><img src="/images/signature.png" alt="John Biddulph" title="John Biddulph" width="60%"></span>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -86,13 +86,13 @@
         </main>
         <div class="app-store-download">
             <a href="https://apps.apple.com/us/app/mbiddulph/id1627696444" target="_blank">
-                <img src="https://melvbiddulph.art/images/download-appstore.png" width="200" alt="Download on the app store" />
+                <img src="https://photos.jbiddulph.com/images/download-appstore.png" width="200" alt="Download on the app store" />
             </a>
         </div>
     </div>
     <footer>
         <div class="copyright">
-            &copy; copyright 2022 Melvyn Biddulph
+            &copy; copyright 2022 John Biddulph
         </div>
     </footer>
     <!-- Scripts -->
