@@ -39,7 +39,7 @@ class GalleryController extends Controller
     }
     public function artUpdate(Request $request, $id) {
         $this->validate($request, [
-            'newfile' => 'required|image|mimes:jpeg,jpg,gif,png|max:2048'
+            'newfile' => 'required|image|mimes:jpeg,jpg,gif,png|max:6048'
         ]);
         $gallery = Gallery::findOrFail($id);
         $image = $request->file('newfile');
@@ -62,7 +62,7 @@ class GalleryController extends Controller
 
     public function saveResizeArt(Request $request) {
         $this->validate($request, [
-            'file' => 'required|image|mimes:jpeg,jpg,gif,png|max:2048',
+            'file' => 'required|image|mimes:jpeg,jpg,gif,png|max:6048',
             'title' => 'required'
         ]);
 

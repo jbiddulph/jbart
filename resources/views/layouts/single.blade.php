@@ -16,9 +16,9 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <meta name="description" content="Gallery of art by Melvyn Biddulph"/>
-    <meta name="keywords" content="Art, artist, gallery, Sussex, lancing, worthing, shoreham"/>
-    <title>Melvyn Biddulph - Artist</title>
+    <meta name="description" content="Gallery of photography by John Biddulph"/>
+    <meta name="keywords" content="Photography"/>
+    <title>John Biddulph - Photographer</title>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">

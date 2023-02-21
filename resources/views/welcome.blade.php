@@ -32,13 +32,9 @@
                         <img src="https://melvbiddulph.art/images/mobile-app.jpg" width="100%" alt="Download on the app store" />
                     </a>
                 </div>
-                <h2>About Melvyn Biddulph</h2>
+                <h2>About John Biddulph</h2>
                 <ul>
-                    <li>BORN IN ROCHDALE 1949</li>
-                    <li>ROCHDALE COLLEGE OF ART</li>
-                    <li>ST MARTINS SCHOOL OF ART 1964 - 1971</li>
-                    <li>EXHIBITED IN 1972</li>
-                    <li>SOLO EXHIBITION 2018 - BACK FROM THE DEAD</li>
+                    <li>BORN IN ROCHDALE 1978</li>
                 </ul>
                 <p><img src="/images/melvyn.jpg" alt="Melvyn Biddulph - The Artist" width="100%"></p>
                 <p>I think I must have been about 12 when the new art teacher joined the school.</p>
