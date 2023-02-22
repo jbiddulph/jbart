@@ -3,7 +3,7 @@
 @section('content')
     <div class="container-fluid" id="app">
         <div class="row">
-            <div class="col-md-8 col-12">
+            <div class="col-md-12 col-12">
                 <div class="flex flex-col">
                     @foreach($artworks as $artwork)
                         <div class="art-holder">
@@ -34,7 +34,7 @@
                     {{ $artworks->links() }}
                 </div>
             </div>
-            <div class="col-md-4 col-12 artistinfo">
+            {{-- <div class="col-md-4 col-12 artistinfo">
                 <h2>About John Biddulph</h2>
                 <ul>
                     <li>BORN IN ROCHDALE 1949</li>
@@ -95,7 +95,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 

@@ -3,7 +3,7 @@
 @section('content')
     <div class="container-fluid" id="app">
         <div class="row">
-            <div class="col-md-8 col-12">
+            <div class="col-md-12 col-12">
                 <div class="grid row">
                     @foreach($artworks as $artwork)
     {{--                <div class="grid-item col-sm-6 col-md-2 col-lg-2">--}}
@@ -26,7 +26,7 @@
                     {{ $artworks->links() }}
                 </div>
             </div>
-            <div class="col-md-4 col-12 artistinfo">
+            {{-- <div class="col-md-4 col-12 artistinfo">
                 <div style="margin-bottom: 20px;">
                     <a href="https://apps.apple.com/us/app/mbiddulph/id1627696444" target="_blank">
                         <img src="https://photos.jbiddulph.com/images/mobile-app.jpg" width="100%" alt="Download on the app store" />
@@ -92,7 +92,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 
