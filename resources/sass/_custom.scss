@@ -17,6 +17,15 @@
         }
     }
 }
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    border-bottom: 3px solid #333333;
+}
 .art-holder {
     display: flex;
     padding-bottom: 30px;
@@ -50,7 +59,6 @@
 .app-store-download {
     width: 240px;
     display: flex;
-    margin: 0 auto;
     padding:20px;
 }
 .qr-codes {

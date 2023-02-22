@@ -2003,10 +2003,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2084,10 +2080,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
 //
 //
 //
@@ -37665,22 +37657,12 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("h2", [_vm._v("About John Biddulph")]),
       _vm._v(" "),
-      _c("ul", [
-        _c("li", [_vm._v("BORN IN ROCHDALE 1949")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("ROCHDALE COLLEGE OF ART")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("ST MARTINS SCHOOL OF ART 1964 - 1971")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("EXHIBITED IN 1972")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("SOLO EXHIBITION 2018 - BACK FROM THE DEAD")])
-      ]),
+      _c("ul", [_c("li", [_vm._v("BORN IN ROCHDALE 1978")])]),
       _vm._v(" "),
       _c("p", [
         _c("img", {
           attrs: {
-            src: "/images/John.jpg",
+            src: "/images/melvyn.jpg",
             alt: "John Biddulph - The Artist",
             width: "100%"
           }
@@ -38054,22 +38036,12 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("h2", [_vm._v("About John Biddulph")]),
       _vm._v(" "),
-      _c("ul", [
-        _c("li", [_vm._v("BORN IN ROCHDALE 1949")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("ROCHDALE COLLEGE OF ART")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("ST MARTINS SCHOOL OF ART 1964 - 1971")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("EXHIBITED IN 1972")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("SOLO EXHIBITION 2018 - BACK FROM THE DEAD")])
-      ]),
+      _c("ul", [_c("li", [_vm._v("BORN IN ROCHDALE 1949")])]),
       _vm._v(" "),
       _c("p", [
         _c("img", {
           attrs: {
-            src: "/images/John.jpg",
+            src: "/images/melvyn.jpg",
             alt: "John Biddulph - The Artist",
             width: "100%"
           }
@@ -52293,7 +52265,7 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
   null,
   null,
   null
-
+  
 )
 
 /* hot reload */
@@ -52313,7 +52285,7 @@ component.options.__file = "resources/js/components/Front.vue"
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Front_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Front.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Front.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Front_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]);
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Front_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -52362,7 +52334,7 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
   null,
   null,
   null
-
+  
 )
 
 /* hot reload */
@@ -52382,7 +52354,7 @@ component.options.__file = "resources/js/components/QrCodes.vue"
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_QrCodes_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./QrCodes.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/QrCodes.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_QrCodes_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]);
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_QrCodes_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -52431,7 +52403,7 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
   null,
   null,
   null
-
+  
 )
 
 /* hot reload */
@@ -52451,7 +52423,7 @@ component.options.__file = "resources/js/components/SingleArtwork.vue"
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SingleArtwork_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./SingleArtwork.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/SingleArtwork.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SingleArtwork_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]);
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SingleArtwork_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
@@ -52592,8 +52564,8 @@ window.onload = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/johnbiddulph/Documents/jbsites/mbiddulph/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/johnbiddulph/Documents/jbsites/mbiddulph/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/johnbiddulph/Documents/jbsites/photos/art/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/johnbiddulph/Documents/jbsites/photos/art/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
